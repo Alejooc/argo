@@ -1,3 +1,5 @@
+<?= $this->extend('default') ?>
+<?= $this->section('content') ?>
 <section class="px-4 text-dark slotc mb-0">
     <div class="row">
         <!--izquierda!-->       
@@ -119,5 +121,5 @@
     </div>
     
 </section>
-
+<?= $this->endSection() ?>
 

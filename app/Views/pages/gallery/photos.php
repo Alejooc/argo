@@ -1,3 +1,5 @@
+<?= $this->extend('default') ?>
+<?= $this->section('content') ?>
 <section class="text-dark slotc mb-0">   
     <div class="col-12 col-md-12 col-lg-12">
         <div class="card px-4 rounded-0">
@@ -58,5 +60,5 @@
     </div>
     
 </section>
-
+<?= $this->endSection() ?>
 
