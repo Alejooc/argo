@@ -1,0 +1,9 @@
+.logo{
+    background: url('^assets/img/icons/logo.gif');
+}
+
+.back{
+    position: absolute;
+    top: 9px;
+    right: 50px;
+}

@@ -1,0 +1,66 @@
+.hotel{
+    image-rendering: optimizeQuality;
+    opacity: 0.7;
+}
+.name{
+    background-color: rgb(255, 255, 255);
+}
+.bubble{
+    position: absolute; 
+    
+}
+.bubblebox{
+    position: relative;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+}
+.avatar{
+  
+}
+.leftcon{
+    position: relative;
+}
+.userinfo{
+    position: absolute;
+    bottom: 50px;
+    
+}
+.infostand{
+    background-color: rgb(252, 252, 252);
+    height: 150px;
+    border-radius: 5px;
+}
+.bg-card-user{
+    background-image: url('/assets/img/icons/nubes.png');
+    background-position: center;
+    z-index: 1;
+   
+}
+.card-header{
+    background-color: #006699;
+    border-radius: 5px !important;
+    color: #ffff!important;
+}
+.nav-link{
+    padding-right: 25px!important;
+    font-weight: 500;
+    color: #777777!important;
+}
+.nav-link:hover{
+    color: #006699!important;
+}
+.nav-link:active{
+    color: #006699!important;
+}
+.photof{
+    background-color: #006699;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+}
+.currency{
+    background-color: #006699;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+}

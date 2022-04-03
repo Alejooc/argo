@@ -1,0 +1,158 @@
+.slota{
+    background-color: #006699!important;
+    margin-bottom: 25px;
+}
+a{
+    text-decoration: none;
+}
+.categorynew{
+    color: white;
+   
+}
+.categorynew:hover{
+    color: white;
+    text-decoration:underline;
+}
+.hotelcont{
+    position: relative;
+}
+.hotel{
+    position: absolute;
+    bottom: 0;
+
+}
+.slotb{
+    color: #393E46;
+    
+    background-image: url('/assets/img/icons/city.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.footer{
+    background:#035f8d !important;
+}
+.footer a{
+    color: white;
+}
+.desclang{
+    z-index: 1;
+   
+    text-align: right;
+}
+.text-landing{
+    width: 550px;
+   
+}
+
+.loginbox{
+    color: #393E46;
+    position: relative;
+}
+.formlogin{
+    position: absolute;
+    top: -10px;
+    left: 100px;
+  
+    background: rgb(255, 255, 255);
+}
+.calendar{
+    /*height: 80px!important;*/
+}
+.noticedesc{
+    position: relative;
+    
+}
+.noticedest{
+    overflow: hidden;
+}
+.text-notice{
+    position: absolute;
+    padding: 25px;
+    color: white;
+    width: 350px;
+}
+.notice{
+    background: unset;
+}
+.bg_calendaritems{
+    border-radius: 5px;
+    background-position: center;
+    background-size: cover;
+    border:solid #f7f7f7 2px;
+}
+.bg_calendaritems:hover{
+    background: url('/assets/img/icons/badge.png');
+    background-color: #e0e0e0;
+    background-position: center;
+    background-size: cover;
+}
+.terms{
+    font-size: 13px;
+}
+.bg_calendaritems a{
+    text-decoration: none;
+    color: #393E46;
+}
+.btnredem{
+    background-color: #04a552!important;
+    color: white;
+    font-weight: 500;
+    margin-top: 15px;
+    border: solid #01c761 2px;
+}
+.btnreg{
+    background-color: #04a552!important;
+    color: white;
+    font-weight: 500;
+    padding: 15px 40px;
+    margin-top: 15px;
+    border: solid #01c761 2px;
+
+}
+.btnlogin{
+    /*background-color: #02b358!important;*/
+    color: white;
+    font-weight: 500;
+    padding: 15px 40px;
+    margin-top: 15px;
+    border: solid #1890cc 2px;
+}
+.btnlogin:hover{
+    color: white;
+    background: #187add;
+}
+.registerbox{
+    position: relative;
+}
+.hand{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
+.btnreg:hover{
+    color: white;
+    background-color:#019147!important;
+    border-radius: 5px;
+}
+.card{
+    
+    border: unset !important;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.alertterm{
+    background: #f5f8fa;
+    border: 1px solid #e1e8ed;
+    padding: 10px;
+    color: #393E46;
+    font-size: 14px;
+}
+.modal-content{
+    border-radius: 10px;
+
+}
+.card-header{
+    background-color: #006699;
+    border-radius: 5px !important;
+    color: #ffff!important;
+}
