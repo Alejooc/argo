@@ -120,7 +120,7 @@
                     </div> 
                     <div class="d-flex justify-content-end">
                         <div class="">
-                            <a href="<?=base_url('comunity')?>" >MAS NOTICIAS</a>
+                            <a href="<?=base_url('comunity')?>" >MASf NOTICIAS</a>
                         </div>
                     </div>
                 </div>
