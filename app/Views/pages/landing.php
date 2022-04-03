@@ -15,7 +15,7 @@
             </div>
             <div class="desclang py-5 text-center">
                 <img  class="img-fluid mb-5" src="<?=base_url()?>/assets/img/icons/logo.gif" alt="">
-                <h1 class="mb-3">¿Aún no eres miembro..?</h1>
+                <h1 class="mb-3">¿Aún no eres miembro?</h1>
                 <p class="text-landing d-none d-sm-block">Bienvenido a Habbo, un hotel virtual en el que puedes conocer a gente de tu edad, crear y decorar tus propias salas, e incluso cuidar de tus mascotas o… comprar créditos y raros en el catálogo de manera gratuita, porque recuerda, ¡Habbo es gratis!</p>
                 <div class="registerbox">
                     <a type="button" href="<?=base_url()?>/register" class="btn btn-lg btnreg shadow-sm">!ÚNETE AHORA¡</a>
