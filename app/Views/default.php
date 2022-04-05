@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="<?=base_url()?>/assets/css/adab.css">
     <script src="https://kit.fontawesome.com/3b1347dda6.js" crossorigin="anonymous"></script>
 
-    <title><?= $this->renderSection('title') ?></title>
+    <title><?=$title?></title>
 </head>
 <body>
 <section class="px-4 text-white slota shadow-sm mb-0">
